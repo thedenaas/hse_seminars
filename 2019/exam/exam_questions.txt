@@ -1,0 +1,11 @@
+1. Compare BERT and GPT-2: high-level description  
+2. What is the interpretation of Laplace smoothing in n-gram language model?  
+3. Language model inference methods: properties, differences, cases of usage (without formulas, at least 2)  
+4. Compare logistic regression and SVM: decision surface and robustness  
+5. When a decision tree for regression performes worse than linear regression?  
+6. Is it possible to train distributed representations for unstructured data (table dataset with categorical features)? How?  
+7. Compare BatchNorm and LayerNorm. What  is the difference and when do we use them?  
+8. Why do we use Cross Entropy Loss for training a Language Model?  
+9. How do model complexity and model training time depend on text tokenization method?  
+10. Describe discrepancy in seq2seq model during training and inference.  
+
